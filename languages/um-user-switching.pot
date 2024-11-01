@@ -1,0 +1,57 @@
+# Copyright (C) 2018 SuitePlugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: UM User Switching 1.0.1.1\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/um-user-switching\n"
+"POT-Creation-Date: 2018-12-12 15:17:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: trunk/um-user-switching.php:198 um-user-switching.php:198
+msgid "Switch&nbsp;To"
+msgstr ""
+
+#: trunk/um-user-switching.php:246 trunk/um-user-switching.php:249
+#: um-user-switching.php:246
+msgid ""
+"UM User Switching requires <a href=\"%s\">%s</a> to be installed and "
+"activated"
+msgstr ""
+
+#: trunk/um-user-switching.php:246 um-user-switching.php:246
+msgid "User Switching"
+msgstr ""
+
+#: trunk/um-user-switching.php:249
+msgid "Ultimate Member"
+msgstr ""
+
+#: trunk/um-user-switching.php:267 um-user-switching.php:268
+msgid ""
+"UM User Switching is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "UM User Switching"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://suiteplugins.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrates User Switching and Ultimate Member"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SuitePlugins"
+msgstr ""
